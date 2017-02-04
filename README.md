@@ -9,6 +9,7 @@ git clone https://github.com/htfire/node-crawler.git
 
 ```
 npm install
-
+```
+执行抓取图片
 ```
 node app.js
