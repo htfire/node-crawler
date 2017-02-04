@@ -9,5 +9,6 @@ git clone https://github.com/htfire/node-crawler.git
 
 ```
 npm install
+
 ```
 node app.js
